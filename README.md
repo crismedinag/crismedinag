@@ -1,25 +1,18 @@
 
 ## ¡Hola, soy Cris! 👋
 
+Después de algunos años formándome y trabajando dentro del mundo editorial 📒 📚, decidí que era el momento de moverme a otro sector, lleno de posibilidades de aprendizaje y no tan diferente como a primeras parece: el desarrollo web  💻. 
 
-### Cris en el ámbito profesional: 
+Personalmente, me encanta trabajar en equipos de trabajo de los que pueda aprender y en los que pueda sentirse en familia. Siempre apuesto por los lugares en los que el éxito individual y grupal se origina de la **retroalimentación**, de la **empatía** y del **esfuerzo diario**. 
 
-Después de algunos años formándose y trabajando dentro del mundo editorial 📒 📚, ha decidido que es el momento de moverse a otro sector, lleno de posibilidades de aprendizaje y no tan diferente como a primeras parece: el desarrollo web  💻. 
+No soy capaz de verme quieta y siempre estoy buscando la manera de seguir creciendo, por lo que después de un año aprendiendo al lado de buenos profesionales lo que de verdad sé es que quiero seguir haciéndolo. Cada día en mi trabajo es un nuevo descubrimiento y eso me encanta.
 
-Lenguaje, maquetación, análisis y corrección de errores, precisión, constancia y mucho, mucho tiempo de dedicación… ¿No suena parecido? Las tecnologías siempre le han apasionado a nivel personal y realizar un bootcamp la ha ayudado a convencerse de que **le encantaría seguir formándose y aprendiendo sobre programación**.
-
-Personalmente, aspira a verse en un equipo de trabajo del que poder aprender y en el que pueda verse a largo plazo. Un lugar donde el éxito individual y grupal se origine de la **retroalimentación**, de la **empatía** y del **esfuerzo diario**. No es capaz de verse quieta y siempre estoy buscando la manera de seguir creciendo. Lo que le gustaría de verdad sería **crecer dentro de una misma empresa**, en la que pudiera sentirse feliz en su trabajo.
-
-Ahora mismo, continúa aprendiendo lo que ya tocó en el bootcamp y está empezando con cositas nuevas para ella como React o Spring. Para ella **el tiempo es lo más valioso que tiene** y no le gusta sentir que lo pierde de ninguna manera.
-
-
-
-### Cris en su vida personal: 
+**El tiempo es lo más valioso que tenemos** y odio sentir que lo pierdo.
 
 ```
 Cris =
 { 
-  "edad": 27,
+  "edad": 28,
   "personal": "Se siente más cómoda escuchando que hablando sobre sí misma. Prefiere su casa, sus libros, su ordenador y un buen café a estar fuera; aunque le encanta viajar y conocer gente nueva, con otras culturas y hábitos de vida",
   "social": "Le gusta sentirse cerca de sus amigos y aprender de los demás",
   "emocionesClave": 
